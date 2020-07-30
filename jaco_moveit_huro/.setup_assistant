@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/ohernandez/URDFs/urdf_jaco/jaco_on_table_robot.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/JacoOnTable.srdf
+  CONFIG:
+    author_name: Ohernandez
+    author_email: ohr2@alu.ua.es
+    generated_timestamp: 1596109273

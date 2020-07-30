@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="practica2" type="publicador.py" name="counter"  output="screen">
+   </node>
+</launch>

@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_all_controller
+    joints:
+      - jaco_arm_0_joint
+      - jaco_arm_1_joint
+      - jaco_arm_2_joint
+      - jaco_arm_3_joint
+      - jaco_arm_4_joint
+      - jaco_arm_5_joint
